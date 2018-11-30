@@ -1,0 +1,40 @@
+_repo: Battling-the-Bighorn-or-The-Aeroplane-in-the-Rockies_58381
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Nuyttens, Josef Pierre
+    aliases:
+    - Nuyttens, Pierre
+    - Nuyttens, Joseph Pierre
+    birthdate: 1885
+    deathdate: 1960
+    gutenberg_agent_id: '6436'
+    url: http://www.gutenberg.org/2009/agents/6436
+creator:
+  author:
+    agent_name: Sayler, H. L. (Harry Lincoln)
+    aliases:
+    - Lamar, Ashton
+    - Sayler, Harry Lincoln
+    birthdate: 1863
+    deathdate: 1913
+    gutenberg_agent_id: '2246'
+    url: http://www.gutenberg.org/2009/agents/2246
+    wikipedia:
+    - http://www.gutenberg.org/ebooks/author/2211
+    - https://en.wikipedia.org/wiki/Harry_Lincoln_Sayler
+description: ''
+gutenberg_issued: '2018-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58381'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Battling the Bighorn
+
+  or, The Aeroplane in the Rockies'
+url: http://www.gutenberg.org/ebooks/58381
